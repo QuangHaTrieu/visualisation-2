@@ -7,7 +7,7 @@
   "vconcat": [
     {
       "width": 480,
-      "height": 300,
+      "height": 200,
       "title": "The change in tourism industry of Australia in 2008 to 2024",
       "layer": [
         {
@@ -85,7 +85,7 @@
     },
     {
       "width": 480,
-      "height": 60,
+      "height": 100,
       "layer": [
         {
           "mark": "line",
